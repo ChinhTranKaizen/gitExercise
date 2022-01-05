@@ -1,3 +1,6 @@
+-Fav food
 - Pho
 - Banh cuon
-- Hu tieu
+-Fav movies
+- Shrek 1
+- Shrek 2
